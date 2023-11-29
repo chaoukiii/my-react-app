@@ -1,5 +1,6 @@
 
-* assemenet challenge :
+* Assessment challenge :
+
 made two functions : show () and extra()
 show will check if the chips exist then display the required chips based on the maxlength
 extra will check if the chips exist then  count the extra ones based on   maxTextLength and display them 
