@@ -1,6 +1,9 @@
 
 * assemenet challenge :
-result of running the appy :
+made two functions : show () and extra()
+show will check if the chips exist then display the required chips based on the maxlength
+extra will check if the chips exist then  count the extra ones based on   maxTextLength and display them 
+result of running the code  :
 
 ![image](https://github.com/chaoukiii/my-react-app/assets/122741924/b143fd3b-4050-4f45-a1ad-07f852464c13)
 
