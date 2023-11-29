@@ -1,3 +1,11 @@
+
+* assemenet challenge :
+result of running the appy :
+
+![image](https://github.com/chaoukiii/my-react-app/assets/122741924/b143fd3b-4050-4f45-a1ad-07f852464c13)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
